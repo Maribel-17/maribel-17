@@ -1,16 +1,23 @@
-## Hi there 👋
+👩‍💻 Hola, soy Maribel 👋
+🎨 Diseñadora Gráfica | UI Designer | Front-end Developer
+💻 Apasionada por crear diseños funcionales y estéticos, combinando creatividad con código.
 
-<!--
-**Maribel-17/maribel-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy enfocada en:
 
-Here are some ideas to get you started:
+Ampliar mis conocimientos en JavaScript y React.
+Aprender y explorar diferentes herramientas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Habilidades y herramientas
+Lenguajes: HTML, CSS, JavaScript.
+Frameworks/Bibliotecas: React (en proceso 🛠️).
+Diseño: Figma, Photoshop, Illustrator.
+Otros: Diseño UI/UX, branding y diseño gráfico.
+
+🌱 En constante aprendizaje
+Estoy comprometida con mejorar cada día en el desarrollo front-end, creando proyectos que destaquen tanto por su diseño como por su funcionalidad.
+
+🌟 Sobre mí
+Me encanta diseñar experiencias visuales que conecten con las personas y resolver problemas con creatividad. Soy amante de los retos, los gatos (Millo es mi compañero 🐾), y siempre estoy abierta a nuevos proyectos y colaboraciones.
+
+📫 Contacto
+Portfolio: (https://maribel-17.github.io/PortfolioMP/)
